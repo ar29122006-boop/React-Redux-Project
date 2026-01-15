@@ -1,0 +1,4 @@
+@import "tailwindcss";
+#bootom {
+    background: linear-gradient(transparent, black);
+}
